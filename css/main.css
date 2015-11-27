@@ -55,8 +55,10 @@ form button
 {
 	color: black;
 }
-}
-img
+.img-responsive
 {
+	width: 100%;
+}
+iframe{
 	width: 100%;
 }
